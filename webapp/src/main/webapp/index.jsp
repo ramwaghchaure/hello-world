@@ -1,9 +1,7 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h1> Hello, This is 2nd line !!! </h1>
-<h1> Hello, This is 3rd line !!! </h1>
-<h1> Hello, This is 4th line !!! </h1>
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h1> Hello, This is 2nd line !!! </h1>
-<h1> Hello, This is 3rd line !!! </h1>
-<h1> Hello, This is 4th line !!! </h1>
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+</form>
 
